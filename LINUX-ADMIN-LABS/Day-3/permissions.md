@@ -1,11 +1,11 @@
-commands:-                          Description
+commands:-                          
 - whoami                      - it prints the user name
 - id                          - it shows the id's of user in groups and other folders
 - sudo adduser devopsuser     - it adds new user 
 - passwd devopsuser           - it add password for user
 - groups                      - it shows gropus where user in different groups
-- chmod 755 file.txt          - it changes the file permissions 
-- chmod 644 file.txt          - same as before command but some permissions changes
+- chmod 755 file.txt          - it changes the file permissions
+- chmod u=+x file.txt          - same as before command but it gives permissions to specified terms(users,groups,others)
 - chown user:user file.txt    - it changes owners and groups permissions for the files
 
 

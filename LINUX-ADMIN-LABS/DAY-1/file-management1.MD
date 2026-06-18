@@ -1,4 +1,4 @@
-Commands:-                          Description
+Commands:-                          
 - pwd                       - it shows current working directory
 - ls                        - it shows the files in the directory
 - ls-la                     - it shows the files in the permissions format and order wise 

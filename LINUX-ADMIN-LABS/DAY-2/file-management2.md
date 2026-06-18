@@ -1,4 +1,4 @@
-commands:-                      Description
+commands:-                      
 - cat  file.txt           - open the file
 - nano file.txt           - edit the file with text editor
 - head file.txt           - first 10 lines are printed on screen
