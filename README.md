@@ -1,3 +1,3 @@
 # MY GITHUB
-MY Devops Journey
+My Devops Journey
 
